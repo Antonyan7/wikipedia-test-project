@@ -17,7 +17,7 @@ The Wikipedia Analytics is a web application that displays page view statistics 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Arman2409/wikipedia-analytics.git;
+   git clone git@github.com:Antonyan7/wikipedia-test-project.git
    cd wikipedia-analytics
    ```
 
