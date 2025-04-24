@@ -16,10 +16,7 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.4",
     "autoprefixer": "^10.4.21",
-<<<<<<< HEAD
     "axios": "^1.8.4",
-=======
->>>>>>> d3b7c4c (feat: add custom colors, searchbar, logo and favicon)
     "chart.js": "^4.4.9",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.4"

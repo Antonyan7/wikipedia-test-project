@@ -285,12 +285,9 @@ button, input:where([type='button'], [type='reset'], [type='submit']), ::file-se
   --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
   box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
 }
-<<<<<<< HEAD
 .filter {
   filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
 }
-=======
->>>>>>> d3b7c4c (feat: add custom colors, searchbar, logo and favicon)
 .hover\:bg-gray-100 {
   &:hover {
     @media (hover: hover) {
@@ -593,7 +590,6 @@ body {
   inherits: false;
   initial-value: 0 0 #0000;
 }
-<<<<<<< HEAD
 @property --tw-blur {
   syntax: "*";
   inherits: false;
@@ -647,8 +643,6 @@ body {
   syntax: "*";
   inherits: false;
 }
-=======
->>>>>>> d3b7c4c (feat: add custom colors, searchbar, logo and favicon)
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
@@ -668,7 +662,6 @@ body {
       --tw-ring-offset-width: 0px;
       --tw-ring-offset-color: #fff;
       --tw-ring-offset-shadow: 0 0 #0000;
-<<<<<<< HEAD
       --tw-blur: initial;
       --tw-brightness: initial;
       --tw-contrast: initial;
@@ -682,8 +675,6 @@ body {
       --tw-drop-shadow-color: initial;
       --tw-drop-shadow-alpha: 100%;
       --tw-drop-shadow-size: initial;
-=======
->>>>>>> d3b7c4c (feat: add custom colors, searchbar, logo and favicon)
     }
   }
 }
