@@ -1,4 +1,4 @@
-export const WIKIPEDIA_METRICS_API_URL = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents";
+export const WIKIPEDIA_METRICS_API_URL = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents";
 
 export const WIKIPEDIA_SUGGESTIONS_API_URL = "https://en.wikipedia.org/w/api.php";
 
