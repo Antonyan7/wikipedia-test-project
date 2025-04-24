@@ -36,3 +36,11 @@ Refer to the documentation in both the `client` and `server` directories to lear
 - **Backend caching**: Reduces the number of requests to the internal API by caching data in a Redis database.
 - **Validation and response handling**: The backend validates request data for various cases and sends appropriate status codes during request handling.
 
+# Structure
+
+Refer to the documentation in both the `client` and `server` directories to learn the structure of each component.You can list the structure of the project in terminal by this command:
+
+```bash
+chmod +x ./list_structure.sh;
+./list_structure.sh
+```
